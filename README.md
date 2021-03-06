@@ -1,5 +1,5 @@
-# PyTorch 1.7.1 for the Jetson Nano
-![output image]( https://qengineering.eu/images/PyTorch_1_7_1_Succes.png )
+# PyTorch 1.7.1 for the Jetson Nano, TX2, Xavier
+![output image]( https://qengineering.eu/images/PyTorch_1_7_1_Succes.png )<br/>
 Python installation wheel for the Jetson Nano.<br/>
 Support of **CUDA 10.2** , **cuDNN 8.0** and **NEON**. <br/>
 For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-jetson-nano.html) <br/><br/>
@@ -8,7 +8,7 @@ Download TorchVision wheel **torchvision-0.8.2a0+2f40a48-cp36-cp36m-linux_aarch6
 
 ----
 
-# PyTorch 1.7.0 for the Jetson Nano
+# PyTorch 1.7.0 for the Jetson Nano, TX2, Xavier
 Python installation wheel for the Jetson Nano.<br/>
 Support of **CUDA 10.2** , **cuDNN 8.0** and **NEON**. <br/>
 For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-jetson-nano.html) <br/><br/>
