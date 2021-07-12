@@ -5,7 +5,7 @@ Support of **CUDA 10.2** , **cuDNN 8.0** and **NEON**. <br/>
 For the installation guide see [Install PyTorch](https://qengineering.eu/install-pytorch-on-jetson-nano.html) <br/><br/>
 Download PyTorch wheel **torch-1.8.0a0+37c1f4a-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1-XmTOEN0z1_-VVCI3DPwmcdC-eLT_-n3/view?usp=sharing) <br/><br/>
 Download TorchVision wheel **torchvision-0.9.0a0+01dfa8e-cp36-cp36m-linux_aarch64.whl** from [Gdrive](https://drive.google.com/file/d/1BdvXkwUGGTTamM17Io4kkjIT6zgvf4BJ/view?usp=sharing)<br/><br/>
-Download LibTorch C++ API libraries **libTorch_1.9.0.7z** from [Gdrive](https://drive.google.com/file/d/118F_UWj9i7j6bx3ThtMKfsr7jKRQBCu8/view?usp=sharing)<br/><br/>
+Download LibTorch C++ API libraries **libTorch_1.9.0.7z** from [Gdrive](https://drive.google.com/file/d/118F_UWj9i7j6bx3ThtMKfsr7jKRQBCu8/view?usp=sharing)
 
 ----
 
