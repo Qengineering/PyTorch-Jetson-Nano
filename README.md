@@ -1,5 +1,5 @@
-## :heavy_exclamation_mark: Notice
-In order for Pytorch to work properly with the ARM NEON registers, we compiled the framework with the clang compiler.<br/>
+#### :heavy_exclamation_mark: C++ programmers please note
+For Pytorch to work with the ARM NEON registers, we compiled the framework with the clang compiler.<br/>
 It means that you should also use the clang compiler if you need to compile C++ code yourself.<br/>
 The GNU GCC compiler will give you 'no expression errors'.<br/>
 ```
@@ -8,6 +8,7 @@ $ export CC=clang
 $ export CXX=clang++
 
 ```
+Don't worry if you plan to use Python. It only applies to C++ users.
 
 # PyTorch 1.8.0 for the Jetson Nano, TX2, Xavier
 ![output image]( https://qengineering.eu/images/Torch_1_8_0_Nano.png )<br/>
