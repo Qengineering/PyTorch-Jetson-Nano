@@ -1,3 +1,14 @@
+## :heavy_exclamation_mark: Notice
+In order for Pytorch to work properly with the ARM NEON registers, we compiled the framework with the clang compiler.<br/>
+It means that you should also use the clang compiler if you need to compile C++ code yourself.<br/>
+The GNU GCC compiler will give you 'no expression errors'.<br/>
+```
+# set clang compiler at the command line
+$ export CC=clang
+$ export CXX=clang++
+
+```
+
 # PyTorch 1.8.0 for the Jetson Nano, TX2, Xavier
 ![output image]( https://qengineering.eu/images/Torch_1_8_0_Nano.png )<br/>
 Python installation wheel for the Jetson Nano, TX2, Xavier.<br/>
