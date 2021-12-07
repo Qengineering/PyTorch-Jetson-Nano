@@ -8,7 +8,9 @@ $ export CC=clang
 $ export CXX=clang++
 
 ```
-Don't worry if you plan to use Python. It only applies to C++ users.
+Don't worry if you plan to use Python. It only applies to C++ users.<br/><br/>
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) <br/><br/>
+
 
 # PyTorch 1.10.0 for the Jetson Nano, TX2, Xavier
 ![output image]( https://qengineering.eu/images/Torch_1_10_0_Jetson_Succes_GitHub.webp )<br/>
