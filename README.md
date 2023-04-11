@@ -5,6 +5,13 @@ Find your operating system and Pytorch version in the table below. Follow the in
 The Jetson Nano wheels supports **CUDA 10.2**, **cuDNN 8.0** and **NEON**.<br/>
 
 -----------------
+## PyTorch 2.0
+Pytorch 2.0 and above uses **CUDA 11**. The Jetson Nano has CUDA 10.2.
+Due to low-level GPU incompatibility, installing CUDA 11 on your Nano is impossible.
+Pytorch 2.0 can only be installed on Jetson family members using a JetPack 5.0 or higher, such as the _Jetson Nano Orion_.
+Unfortunately, it does not appear that this version will also be available for the Jetson Nano soon.
+
+-----------------
 
 ## PyTorch 1.13.0, 1.12.0 and 1.11.0
 PyTorch version 1.11 and above requires Python 3.7.<br/>
